@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="keywords" content="CV, Junior Frontend Developer">
+    <title>Single-Page CV</title>
+    <link rel="icon" type="image/icon" href="https://yt3.googleusercontent.com/QShprQ1LEF0RwP-6BQHod1rj1Me1AdIg1OLidyw6GjCvwu1REDDld1AkPYlLkkTguFQ-5zXGrg=s160-c-k-c0x00ffffff-no-rj">
+    <link href="https://fonts.cdnfonts.com/css/arial-mt" rel="stylesheet">
+    
+    <style>
+        @import url('https://fonts.cdnfonts.com/css/arial-mt');
+
+        h1, h2, h3, p {
+            font-family: 'Arial Rounded MT';
+            font-weight:400;
+        }
+
+        h1{
+            font-size: 30px;
+        }
+
+        h2{
+            font-size: 18px;
+            color: #39a34d;
+        }
+
+        h3 {
+            font-size: 22px;
+            color: #1971c2;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+       hr{
+        border-top: 3px solid black;
+        border-radius: 2px;
+       }
+        
+    </style>
+</head>
+<body>
+
+    <br>
+    <hr>
+    <h1>Jun Kim</h1>
+
+    <h2>Junior Frontend Developer</h2>
+
+    <p>Philippines</p>
+    <p>(123) 456-7890</p>
+    <p>unyieldingvibes@gmail.com</p>
+    <br>
+
+    <h2>Skills</h2>
+    <p>Photoshop, Illustrator, Figma, GHL, Wordpress</p>
+    <br>
+
+    <h2>Education</h2>
+    <h3>University of Perpetual Help Isabela Campus, Minante Uno - Bachelor of Science in Computer Engineering</h3>
+    <p>June 11, 2019 to June 7, 2023</p>
+    <p>List of exciting things I did at University??? Did static html css website</p>
+    <br>
+
+    <h2>Experience</h2>
+    <h3>Rockstar Web Design Services - Graphic Designer/Web Builder</h3>
+    <p>June 12, 2023 to October 4, 2024</p>
+    <p>Skills: Photoshop, Illustrator, Figma, GHL, Wordpress</p>
+    <br>
+
+    <h2>Across the Internet</h2>
+    <p>Coming Soon</p>
+
+</body>
+</html>
